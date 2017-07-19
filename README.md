@@ -6,7 +6,7 @@ Sample repository to show how pm2 gives error when using following process file 
   apps: [
     {
       script: "npm",
-      name: "gStash",
+      name: "app",
       cwd: "./",
       args: "run-script start"
     }
