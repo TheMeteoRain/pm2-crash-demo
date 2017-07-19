@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       script: "npm",
-      name: "gStash",
+      name: "app",
       cwd: "./",
       args: "run-script start"
     }
