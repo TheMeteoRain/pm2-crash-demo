@@ -1,6 +1,6 @@
 # pm2-crash-demo
 
-Sample repository to show how pm2 gives error when using following process file configuration
+Sample repository to show how pm2 gives error when using following process file configuration on windows
 
 `module.exports = {
   apps: [
